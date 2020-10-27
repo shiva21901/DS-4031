@@ -1,7 +1,7 @@
 #M.SHIVA
 #SYCS
 #4031
-nums = [5,4,4063,-1]
+nums = [5,4,4031,-1]
 a = str(input("enter the string i for insertion sort , b for bubble sort , s for selection sort : "))
 if a=='i' or a =='I':
    
